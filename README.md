@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+### Research 🧲
+Prior to tech, I worked academia. 
+My research was in the field of theoretical high energy physics.
+All of my high energy theory publications are available for free on [inSpireHEP](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=ea%20c.w.murphy.1%20and%20not%20collaboration%20belle%20ii%20and%20not%20primarch%20physics.acc-ph%20and%20not%20primarch%20physics.ins-det%20and%20not%20texkey%20Weikum%3A2019ubf&ui-citation-summary=true).
+Note that as Chris Murphy is such a common name, I recommend using inSpire over [Google Scholar](https://scholar.google.com/citations?user=QZW7r6IAAAAJ&hl=en&oi=sra).
+
+
 <!--
 **christopher-w-murphy/christopher-w-murphy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
