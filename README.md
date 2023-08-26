@@ -1,7 +1,7 @@
 ### Hi there 👋🏼
 I'm Chris, a full-stack data science lead.
 I love learning new things, and then translating those insights into results.
-Fun Fact: This year I am attempting to qualify for the world championships of gravel cycling in my age group 😅 🚴 🙃
+Fun Fact: This year I attempted to qualify for the world championships of gravel cycling in my age group 😅 🚴 🙃
 
 ### Media Interviews 💬
 Do you have a data or machine learning outlet/podcast and are looking for guest speakers? 
