@@ -1,5 +1,5 @@
 ### Hi there 👋🏼
-I'm Chris, a full-stack data science lead.
+I'm Chris, a full-stack data science lead. Currently, I'm working on AI at [Klaviyo](https://github.com/murphycw/)
 I love learning new things, and then translating those insights into results.
 Fun Fact: This year I attempted to qualify for the world championships of gravel cycling in my age group 😅 🚴 🙃
 
