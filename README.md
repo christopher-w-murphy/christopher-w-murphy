@@ -1,12 +1,11 @@
 ### Hi there 👋🏼
-I'm Chris, a full-stack data science lead. Currently, I'm working on AI at [Klaviyo](https://github.com/murphycw/)
+I'm Chris, a full-stack data scientist. Currently, I'm working on AI at [Klaviyo](https://github.com/murphycw/)
 I love learning new things, and then translating those insights into results.
-Fun Fact: This year I attempted to qualify for the world championships of gravel cycling in my age group 😅 🚴 🙃
+In my spare time I like to ride my bicycle.
 
 ### Media Interviews 💬
-Do you have a data or machine learning outlet/podcast and are looking for guest speakers? 
-I could be just the data scientist you're looking for.
 In addition to the below interviews, I have also been invited to give dozens of scientific presentations at conferences and universities in seven different countries.
+- Klaviyo Data Science Podcast [What Real Data Scientists Wish They'd Known Earlier in their Careers](https://creators.spotify.com/pod/show/klaviyo-data-science/episodes/Klaviyo-Data-Science-Podcast-EP-49--What-Real-Data-Scientists-Wish-Theyd-Known-Earlier-in-their-Careers-e2m61th/a-abejhmj)
 - Forbes: [Deploying Models In An Evolving Housing Market](https://www.forbes.com/sites/aparnadhinakaran/2022/06/22/deploying-models-in-an-evolving-housing-market/?sh=1b66c9f9684f) 
 - The Data Standard: [Balancing short term and long term successes](https://datastandard.io/podcast/the-data-standard-audio-experience-with-chris-murphy-from-homepoint/)
 
