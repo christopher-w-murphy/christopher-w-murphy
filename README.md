@@ -10,7 +10,7 @@ In addition to the below interviews, I have also been invited to give dozens of 
 - The Data Standard: [Balancing short term and long term successes](https://datastandard.io/podcast/the-data-standard-audio-experience-with-chris-murphy-from-homepoint/)
 
 ### Research 🧲
-Prior to tech, I worked academia. 
+Prior to tech, I worked academia, which included living in Pisa, Italy for two yearsa. 
 My research was in the field of theoretical high energy physics.
 Primarily, I investigated the then newly discovered Higgs boson, and analyzed experimental results from the Large Hadron Collider in a model-independent fashion to search for signs of physics beyond the Standard Model using effective field theory techniques.
 The most recent (last?) [research presentation](https://indico.ihep.ac.cn/event/13632/contributions/24626/) I gave was fittingly at the Higgs and Effective Field Theory conference back in 2021.
